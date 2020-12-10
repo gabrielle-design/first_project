@@ -8,7 +8,8 @@ for x in puwis_dogs:
     if x=="intrusa":
         print("You are not her dog")
     else:  print(x)
-    
 
+print("Intruso you got caught")
+print("muajajaja")
     
 
