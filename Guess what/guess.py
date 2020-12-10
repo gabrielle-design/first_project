@@ -18,6 +18,7 @@ if b=="Yes":
     print("Ok, let's go")
 else:
     print("You are such a pussy")
+    print("fat cat!")
 
 print("let's play")
 print("Think a number")
