@@ -9,6 +9,8 @@ for x in puwis_dogs:
         print("You are not her dog")
     else:  print(x)
 
+print("Intruso you got caught")
+print("muajajaja")
     
 
 
